@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Triager", "Triager\Triager.csproj", "{30F43AEF-CC43-4F89-BD33-99CFE1A41B33}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0390D0AB-CB49-486F-94F2-3ADD5ABDD0CB}"
+	ProjectSection(SolutionItems) = preProject
+		..\.gitignore = ..\.gitignore
+		..\LICENSE = ..\LICENSE
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30F43AEF-CC43-4F89-BD33-99CFE1A41B33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30F43AEF-CC43-4F89-BD33-99CFE1A41B33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30F43AEF-CC43-4F89-BD33-99CFE1A41B33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30F43AEF-CC43-4F89-BD33-99CFE1A41B33}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7BD1DBC9-42DD-4B2A-87C9-F0918F880512}
+	EndGlobalSection
+EndGlobal
